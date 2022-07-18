@@ -1,0 +1,12 @@
+<svg id="worker-desk-svgrepo-com" xmlns="http://www.w3.org/2000/svg" width="29.439" height="29.439" viewBox="0 0 29.439 29.439">
+  <g id="Group_180" data-name="Group 180" transform="translate(10.359 11.04)">
+    <path id="Path_1445" data-name="Path 1445" d="M180.156,196.416l.8-4.416h3.558v4.416Z" transform="translate(-180.156 -192)" fill="#fbb900"/>
+    <path id="Path_1446" data-name="Path 1446" d="M256,196.416V192h3.558l.8,4.416Z" transform="translate(-251.639 -192)" fill="#fbb900"/>
+  </g>
+  <rect id="Rectangle_334" data-name="Rectangle 334" width="25.023" height="11.776" transform="translate(2.208 15.456)" fill="#fbb900"/>
+  <path id="Path_1447" data-name="Path 1447" d="M195.68,20.16a3.68,3.68,0,1,1,3.68-3.68A3.684,3.684,0,0,1,195.68,20.16Z" transform="translate(-180.96 -12.064)" fill="#fbb900"/>
+  <g id="Group_181" data-name="Group 181">
+    <path id="Path_1448" data-name="Path 1448" d="M183.616,8.832A4.416,4.416,0,1,0,179.2,4.416,4.421,4.421,0,0,0,183.616,8.832Zm0-7.36a2.944,2.944,0,1,1-2.944,2.944A2.944,2.944,0,0,1,183.616,1.472Z" transform="translate(-168.896)" fill="#fbb900"/>
+    <path id="Path_1449" data-name="Path 1449" d="M28.7,183.616H19.695l-.583-3.207a1.472,1.472,0,0,0-1.448-1.209H11.776a1.472,1.472,0,0,0-1.448,1.209l-.583,3.207H.736a.736.736,0,1,0,0,1.472h.736v13.248H2.944v-1.472H26.5v1.472h1.472V185.088H28.7a.736.736,0,1,0,0-1.472Zm-13.248-2.944h2.208l.535,2.944H15.456Zm-3.68,0h2.208v2.944H11.24Zm14.72,14.72H2.944v-10.3H26.5v10.3Z" transform="translate(0 -168.896)" fill="#fbb900"/>
+  </g>
+</svg>

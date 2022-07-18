@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="68" viewBox="0 0 86 68">
+  <g id="Group_70" data-name="Group 70" transform="translate(-554 -627)">
+    <g id="Component_48_1" data-name="Component 48 – 1" transform="translate(554 627)">
+      <g id="Group_68" data-name="Group 68" transform="translate(-468 -627)">
+        <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(486 627)" fill="none" stroke="#bbc5d5" stroke-width="2">
+          <rect width="50" height="50" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="48" height="48" rx="3" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_69" data-name="Group 69" transform="translate(-486 -627)" opacity="0">
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="86" height="18" rx="2" transform="translate(486 677)" fill="#bbc5d5"/>
+        <text id="RyPam_Banks_" data-name="RyPam (Banks)" transform="translate(488 690)" fill="#354052" font-size="12" font-family="Raleway"><tspan x="0" y="0">RyPam (Banks)</tspan></text>
+      </g>
+    </g>
+    <path id="Path_book-open-page-variant" data-name="Path / book-open-page-variant" d="M23.909,2,17.545,7.4V20.6l6.364-5.4V2M8,5.6A12.378,12.378,0,0,0,1,7.4V24.992a.666.666,0,0,0,.636.6c.127,0,.191-.084.318-.084A16.305,16.305,0,0,1,8,24.2,12.378,12.378,0,0,1,15,26a16.048,16.048,0,0,1,7-1.8,13.619,13.619,0,0,1,6.045,1.272.584.584,0,0,0,.318.036.666.666,0,0,0,.636-.6V7.4a8.9,8.9,0,0,0-2.545-1.2V22.4A15.624,15.624,0,0,0,22,21.8a16.048,16.048,0,0,0-7,1.8V7.4A12.378,12.378,0,0,0,8,5.6Z" transform="translate(582 638)" fill="#fbb900"/>
+  </g>
+</svg>

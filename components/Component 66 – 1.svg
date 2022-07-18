@@ -1,0 +1,20 @@
+<svg id="Component_66_1" data-name="Component 66 – 1" xmlns="http://www.w3.org/2000/svg" width="136" height="200" viewBox="0 0 136 200">
+  <g id="Rectangle" fill="none" stroke="#e9ebef" stroke-miterlimit="10" stroke-width="4">
+    <rect width="136" height="200" rx="8" stroke="none"/>
+    <rect x="2" y="2" width="132" height="196" rx="6" fill="none"/>
+  </g>
+  <text id="Total_Bookings" data-name="Total Bookings" transform="translate(7 167.505)" fill="#bbc5d5" font-size="10" font-family="Lato-Black, Lato" font-weight="800"><tspan x="0" y="0">CHEQUE CONFIRMATION</tspan></text>
+  <g id="check-svgrepo-com" transform="translate(22 -7.323)">
+    <path id="Path_1378" data-name="Path 1378" d="M84.988,96.571v26.064H10V47.647H84.988Z" transform="translate(-8.156 -8.156)" fill="#fff3c7"/>
+    <g id="Group_162" data-name="Group 162" transform="translate(0 37.647)">
+      <g id="Group_161" data-name="Group 161">
+        <path id="Path_1379" data-name="Path 1379" d="M105.337,123.655a5.324,5.324,0,0,1-3.777-1.564L83.4,103.931a5.341,5.341,0,0,1,7.553-7.553l14.383,14.383,43.011-43.011A5.341,5.341,0,1,1,155.9,75.3L109.113,122.09A5.325,5.325,0,0,1,105.337,123.655Z" transform="translate(-66.746 -60.923)" fill="#fbb900"/>
+        <g id="Group_160" data-name="Group 160">
+          <path id="Path_1380" data-name="Path 1380" d="M76.832,86.571a1.844,1.844,0,0,0-1.844,1.844v24.22H3.688v-71.3H76.832a1.844,1.844,0,1,0,0-3.688H1.844A1.844,1.844,0,0,0,0,39.491v74.988a1.844,1.844,0,0,0,1.844,1.844H76.832a1.844,1.844,0,0,0,1.844-1.844V88.415A1.844,1.844,0,0,0,76.832,86.571Z" transform="translate(0 -37.647)" fill="#354052"/>
+          <path id="Path_1381" data-name="Path 1381" d="M408.532,229.983a1.844,1.844,0,0,0-1.844,1.844v4.914a1.844,1.844,0,0,0,3.688,0v-4.914A1.844,1.844,0,0,0,408.532,229.983Z" transform="translate(-331.7 -194.519)" fill="#354052"/>
+          <path id="Path_1382" data-name="Path 1382" d="M149.064,58.305a7.194,7.194,0,0,0-10.161,0L97.2,100.012,84.117,86.933A7.185,7.185,0,1,0,73.956,97.094l18.16,18.16a7.185,7.185,0,0,0,10.161,0l46.788-46.788A7.193,7.193,0,0,0,149.064,58.305Zm-2.608,7.554L99.669,112.646a3.5,3.5,0,0,1-4.946,0L76.564,94.487a3.5,3.5,0,0,1,4.946-4.946l14.383,14.383a1.844,1.844,0,0,0,2.608,0l43.011-43.01a3.5,3.5,0,1,1,4.946,4.946Z" transform="translate(-58.606 -52.783)" fill="#354052"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="68" viewBox="0 0 86 68">
+  <g id="Group_75" data-name="Group 75" transform="translate(-984 -627)">
+    <g id="Component_48_1" data-name="Component 48 – 1" transform="translate(984 627)">
+      <g id="Group_68" data-name="Group 68" transform="translate(-468 -627)">
+        <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(486 627)" fill="none" stroke="#bbc5d5" stroke-width="2">
+          <rect width="50" height="50" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="48" height="48" rx="3" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_69" data-name="Group 69" transform="translate(-486 -627)" opacity="0">
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="86" height="18" rx="2" transform="translate(486 677)" fill="#bbc5d5"/>
+        <text id="RyPam_Banks_" data-name="RyPam (Banks)" transform="translate(488 690)" fill="#354052" font-size="12" font-family="Raleway"><tspan x="0" y="0">RyPam (Banks)</tspan></text>
+      </g>
+    </g>
+    <g id="MDI_email-plus" data-name="MDI / email-plus" transform="translate(1009 636)" opacity="0.997">
+      <path id="Path_email-plus" data-name="Path / email-plus" d="M4.043,4A2.938,2.938,0,0,0,1,6.842V23.895a2.948,2.948,0,0,0,3.043,2.842H20.92a7.382,7.382,0,0,1-.137-1.421c0-4.709,4.088-8.526,9.13-8.526a9.03,9.03,0,0,1,1.522.128V6.842A2.947,2.947,0,0,0,28.391,4H4.043m0,2.842,12.174,7.105L28.391,6.842V9.684L16.217,16.789,4.043,9.684V6.842M28.391,19.632v4.263H23.826v2.842h4.565V31h3.043V26.737H36V23.895H31.435V19.632Z" transform="translate(0 -1)" fill="#fbb900"/>
+    </g>
+  </g>
+</svg>

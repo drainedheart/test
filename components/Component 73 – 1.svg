@@ -1,0 +1,47 @@
+<svg id="Component_73_1" data-name="Component 73 – 1" xmlns="http://www.w3.org/2000/svg" width="136" height="200" viewBox="0 0 136 200">
+  <g id="Rectangle" fill="none" stroke="#e9ebef" stroke-miterlimit="10" stroke-width="4">
+    <rect width="136" height="200" rx="8" stroke="none"/>
+    <rect x="2" y="2" width="132" height="196" rx="6" fill="none"/>
+  </g>
+  <text id="Total_Bookings" data-name="Total Bookings" transform="translate(18 167.505)" fill="#bbc5d5" font-size="10" font-family="Lato-Black, Lato" font-weight="800"><tspan x="0" y="0">FINANCIAL REPORTS</tspan></text>
+  <g id="report-svgrepo-com-2" transform="translate(17 26)">
+    <g id="Group_170" data-name="Group 170">
+      <g id="XMLID_36_">
+        <g id="Group_169" data-name="Group 169" transform="translate(2.102 1.856)">
+          <path id="Path_1437" data-name="Path 1437" d="M108.8,335v7.357H10V335h98.8Z" transform="translate(-10 -266.438)" fill="#bbc5d5"/>
+          <rect id="Rectangle_327" data-name="Rectangle 327" width="19" height="7" transform="translate(39.898 0.144)" fill="#bbc5d5"/>
+          <path id="Path_1438" data-name="Path 1438" d="M117.49,45v60.959H25V45h92.49Z" transform="translate(-21.847 -37.397)" fill="#fff"/>
+        </g>
+        <path id="Path_1439" data-name="Path 1439" d="M100.9,68.316H99.847V9.459a2.1,2.1,0,0,0-2.1-2.1H63.061V2.1a2.1,2.1,0,0,0-2.1-2.1H42.041a2.1,2.1,0,0,0-2.1,2.1V7.357H5.255a2.1,2.1,0,0,0-2.1,2.1V68.316H2.1a2.1,2.1,0,0,0-2.1,2.1v7.357a2.1,2.1,0,0,0,2.1,2.1H34.124l-10.7,17.837,3.6,2.163,12-20H49.4V103h4.2V79.878H63.973l12,20,3.6-2.163-10.7-17.837H100.9a2.1,2.1,0,0,0,2.1-2.1V70.418A2.1,2.1,0,0,0,100.9,68.316ZM44.143,4.2H58.857V7.357H44.143ZM7.357,11.561H95.643V68.316H7.357ZM98.8,75.673H4.2V72.52H98.8Z" fill="#354052"/>
+      </g>
+    </g>
+    <g id="XMLID_35_" transform="translate(14.714 18.918)">
+      <g id="Group_171" data-name="Group 171" transform="translate(2.102 2.102)">
+        <path id="Path_1440" data-name="Path 1440" d="M188.918,118.918H170V100A18.92,18.92,0,0,1,188.918,118.918Z" transform="translate(-151.082 -100)" fill="#bbc5d5"/>
+        <path id="Path_1441" data-name="Path 1441" d="M117.837,118.918A18.918,18.918,0,1,1,98.918,100v18.918Z" transform="translate(-80 -100)" fill="#fbb900"/>
+      </g>
+      <path id="Path_1442" data-name="Path 1442" d="M91.02,90a21.02,21.02,0,1,0,21.02,21.02A21.044,21.044,0,0,0,91.02,90Zm16.68,18.918H93.122V94.34A16.844,16.844,0,0,1,107.7,108.918ZM91.02,127.837a16.814,16.814,0,0,1-2.1-33.5v16.68a2.1,2.1,0,0,0,2.1,2.1H107.7A16.838,16.838,0,0,1,91.02,127.837Z" transform="translate(-70 -90)" fill="#354052"/>
+    </g>
+    <g id="Group_172" data-name="Group 172" transform="translate(72.376 27.218)">
+      <rect id="Rectangle_328" data-name="Rectangle 328" width="15" height="5" transform="translate(-0.376 -0.219)" fill="#354052"/>
+    </g>
+    <g id="Group_173" data-name="Group 173" transform="translate(72.376 33.404)">
+      <rect id="Rectangle_329" data-name="Rectangle 329" width="15" height="5" transform="translate(-0.376 -0.404)" fill="#354052"/>
+    </g>
+    <g id="Group_174" data-name="Group 174" transform="translate(72.376 40.209)">
+      <rect id="Rectangle_330" data-name="Rectangle 330" width="15" height="4" transform="translate(-0.376 -0.209)" fill="#354052"/>
+    </g>
+    <g id="Group_175" data-name="Group 175" transform="translate(72.376 21.032)">
+      <rect id="Rectangle_331" data-name="Rectangle 331" width="10" height="4" transform="translate(-0.376 -0.032)" fill="#354052"/>
+    </g>
+    <g id="Group_176" data-name="Group 176" transform="translate(54.218 21.02)">
+      <path id="Path_1443" data-name="Path 1443" d="M260.9,106.741l-2.973-2.973,3.153-3.153a2.1,2.1,0,0,1,1.486-.616h9.459v4.2h-8.589Z" transform="translate(-257.928 -99.999)" fill="#354052"/>
+    </g>
+    <g id="Group_177" data-name="Group 177" transform="translate(64.953 49.488)">
+      <rect id="Rectangle_332" data-name="Rectangle 332" width="24" height="5" transform="translate(0.047 -0.488)" fill="#354052"/>
+    </g>
+    <g id="Group_178" data-name="Group 178" transform="translate(58.767 56.911)">
+      <rect id="Rectangle_333" data-name="Rectangle 333" width="30" height="4" transform="translate(0.233 0.089)" fill="#354052"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="Component_48_1" data-name="Component 48 – 1" xmlns="http://www.w3.org/2000/svg" width="86" height="68" viewBox="0 0 86 68">
+  <g id="Group_68" data-name="Group 68" transform="translate(-468 -627)">
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(486 627)" fill="none" stroke="#bbc5d5" stroke-width="2">
+      <rect width="50" height="50" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="48" height="48" rx="3" fill="none"/>
+    </g>
+    <g id="MDI_bank" data-name="MDI / bank" transform="translate(496 637.357)">
+      <rect id="Boundary" width="30" height="30" fill="#fbb900" opacity="0"/>
+      <path id="Path_bank" data-name="Path / bank" d="M14.5,1,2,7.429V10H27V7.429m-6.579,5.143v9h3.947v-9M2,28H27V24.143H2M12.526,12.571v9h3.947v-9m-11.842,0v9H8.579v-9Z" transform="translate(1 1)" fill="#fbb900"/>
+    </g>
+  </g>
+  <g id="Group_69" data-name="Group 69" transform="translate(-486 -627)" opacity="0">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="86" height="18" rx="2" transform="translate(486 677)" fill="#bbc5d5"/>
+    <text id="RyPam_Banks_" data-name="RyPam (Banks)" transform="translate(488 690)" fill="#354052" font-size="12" font-family="Raleway"><tspan x="0" y="0">RyPam (Banks)</tspan></text>
+  </g>
+</svg>

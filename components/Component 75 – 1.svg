@@ -1,0 +1,23 @@
+<svg id="Component_75_1" data-name="Component 75 – 1" xmlns="http://www.w3.org/2000/svg" width="136" height="200" viewBox="0 0 136 200">
+  <g id="Rectangle" fill="none" stroke="#e9ebef" stroke-miterlimit="10" stroke-width="4">
+    <rect width="136" height="200" rx="8" stroke="none"/>
+    <rect x="2" y="2" width="132" height="196" rx="6" fill="none"/>
+  </g>
+  <text id="Total_Bookings" data-name="Total Bookings" transform="translate(56 167.505)" fill="#bbc5d5" font-size="10" font-family="Lato-Black, Lato" font-weight="800"><tspan x="0" y="0">TRAF</tspan></text>
+  <g id="XMLID_449_" transform="translate(18 -40)">
+    <rect id="XMLID_450_" width="51" height="7" transform="translate(0 133)" fill="#354052"/>
+    <rect id="XMLID_451_" width="50" height="7" transform="translate(51 133)" fill="#7f8fa4"/>
+    <path id="XMLID_452_" d="M27.186,125.3V82.186h76.654v50.3h7.186V75H20v57.491h7.186Z" transform="translate(-15.209)" fill="#354052"/>
+    <rect id="XMLID_453_" width="76" height="8" transform="translate(12 82)" fill="#fff3c7"/>
+    <path id="XMLID_454_" d="M113.479,285H50v7.186h76.654V285Z" transform="translate(-38.023 -159.696)" fill="#fff3c7"/>
+    <path id="XMLID_455_" d="M63.175,163.745v-7.186h7.186v14.373h7.186V151.768h7.186v19.164H91.92V146.977h7.186v23.954h7.186V142.186h7.186v28.745h13.175V135H50v35.932H63.175Z" transform="translate(-38.023 -45.627)" fill="#fbb900"/>
+    <rect id="XMLID_458_" width="9" height="8" transform="translate(24 118)" fill="#344248"/>
+    <rect id="XMLID_459_" width="9" height="7" transform="translate(24 111)" fill="#fff3c7"/>
+    <rect id="XMLID_460_" width="7" height="8" transform="translate(39 118)" fill="#ff5023"/>
+    <rect id="XMLID_461_" width="7" height="12" transform="translate(39 106)" fill="#fff3c7"/>
+    <rect id="XMLID_462_" width="9" height="8" transform="translate(53 118)" fill="#d80027"/>
+    <rect id="XMLID_463_" width="9" height="16" transform="translate(53 102)" fill="#fff3c7"/>
+    <rect id="XMLID_464_" width="7" height="8" transform="translate(68 118)" fill="#a2001d"/>
+    <rect id="XMLID_466_" width="7" height="21" transform="translate(68 97)" fill="#fff3c7"/>
+  </g>
+</svg>
