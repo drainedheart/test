@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+  <title>ProvidusClick Dashboard</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="svg/providusbank-squarelogo-1649393124401.png" rel="icon">
+  <link href="svg/providusbank-squarelogo-1649393124401.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.gstatic.com" rel="preconnect">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/quill/quill.snow.css" rel="stylesheet">
+  <link href="assets/vendor/quill/quill.bubble.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/simple-datatables/style.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header fixed-top d-flex align-items-center">
+
+    <nav class="header-nav ms-auto fixed-top d-flex align-items-center justify-content-between" style="display: flex;">
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- <img src="svg/providusbank-squarelogo-1649393124401.png" alt=""> -->
+        <h2 class="d-none d-lg-block providus-title">Providus<span>Click</span></h2>
+      </a>
+      <!-- <i class="bi bi-list toggle-sidebar-btn"></i> -->
+      <ul class="d-flex align-items-center">
+
+        <li class="nav-item">
+
+          <button type="button" class="btn btn-secondary" style="background: #354052; display: flex;">Logout</button>
+        </li><!-- End Profile Nav -->
+
+      </ul> 
+    </nav><!-- End Logo -->
+
+  </header><!-- End Header -->
+
+  <!-- ======= Sidebar ======= -->
+  <aside id="sidebar" class="sidebar">
+
+    <ul class="sidebar-nav" id="sidebar-nav">
+      <div href="index.html" class="logo" style="position: relative; z-index: 31;">
+        <img src="components/bank_logo_terms.png" style="position: relative; height: 100%; width: inherit;" id="main-logo"></div>
+      
+
+      <section style="display: flex;">
+        <div><h5>Welcome Back</h5>
+        <h4>Iokeke</h4>
+      <h6>INFORMATION TECHNOLOGY - 220516</h6></div>
+        <div class="user"><img class="us" src="./components/user.svg" alt=""></div>
+      </section>
+
+      <li class="nav-item">
+        <a class="nav-link " href="index.html" style="gap: 20px;">
+          <div class=" icon-contain" id="active-icon"><img class="prov" src="./sideBarSvg/about.svg"/></div>
+          <span>Who we are</span>
+        </a>
+      </li><!-- End of Who we are -->
+
+      <li class="nav-item">
+        <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#" style="gap: 20px;">
+            <div class="icon-contain" id="active-icon"><img class="future" src="./sideBarSvg/emoji_objects_FILL0_wght400_GRAD0_opsz48.svg"/></div>
+            <span>Future Forward Portal</span>
+            
+          </a>
+      </li><!-- End of FFP -->
+
+      <li class="nav-item">
+        <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="#" style="gap: 20px;">
+          <div class="icon-contain" id="active-icon"><img class="policies" src="./sideBarSvg/local_police_FILL0_wght400_GRAD0_opsz48.svg"/></div>
+          <span>Policies</span>
+          
+        </a>
+      </li><!-- End of Policies -->
+
+      <li class="nav-item">
+        <a style="gap: 20px;" class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
+          <div class="icon-contain" id="active-icon"><img class="form" src="./sideBarSvg/assignment_FILL0_wght400_GRAD0_opsz48.svg"/></div>
+          <span>Forms & Templates</span><i class="bi bi-chevron-down ms-auto"></i>
+        </a>
+        <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Banking services Forms
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Banking services Templates
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Compliances
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Digital Banking Forms
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>HR Forms
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>ITSD Forms
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Other Templates
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Request Forms
+                </span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>SAHCO Forms</span>
+            </a>
+          </li>
+        </ul>
+      </li><!-- End of Forms & Templates -->
+
+      <li class="nav-item">
+        <a class="nav-link collapsed" data-bs-target="#charts-nav" data-bs-toggle="collapse" href="#" style="gap: 20px;">
+          <div class="icon-contain" id="active-icon"><img class="about" src="./sideBarSvg/diversity_2_FILL0_wght400_GRAD0_opsz48.svg"/></div>
+          <span>Employee Hub</span><i class="bi bi-chevron-down ms-auto"></i>
+        </a>
+        <ul id="charts-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+          <li>
+            <a href="">
+              <i class="bi bi-circle"></i><span>Leave Request</span>
+            </a>
+          </li>
+        </ul>
+      </li><!-- End of Employee HUB -->
+
+      <table class="table table-borderless">
+        <thead>
+          <tr>
+            <th >Budget</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">KPI</th>
+            <td>2022 Budget</td>
+          </tr>
+          <tr>
+            <th scope="row">Deposit Target</th>
+            <td>0.00</td>
+          </tr>
+          <tr>
+            <th scope="row">Deposit Target</th>
+            <td>0.00</td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- End Budget Table -->
+    </ul>
+  </aside>
+  <!-- End Sidebar-->
+
+  <main id="main" class="main">
+
+    <div class="pagetitle">
+    </div><!-- End Page Title -->
+
+    <section class="section dashboard"><div class="slideshow-container" style="width: inherit; height: inherit;">
+      <img src="components/slide2.png" style="width: inherit; height: inherit;">
+    </div>
+    
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+    <div ><h5 style="display: inline; padding-right: 20px">Dashboard</h5>
+      <h5 style="display: inline; padding-right: 20px">privleged Links</h5>
+      <h5 style="display: inline; padding-right: 20px">Quick Links</h5>
+      <hr/>
+      <div style="font-size:24px; background: #354052; height: 80px; width: 946px; display: flex; border-radius: 4px; align-items: center;">
+        <div style="display: flex; gap: 32px; margin-left: 38px;;">
+        <div class="icon-contain" id="active-icons" data-hover="RyPam (Banks)"><img class="about" src="./quickLinksSvg/MDI - bank.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="Providus BlueBook"><img class="book" src="./quickLinksSvg/Path - book-open-page-variant.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="Providus InfoHub"><img class="hub" src="./quickLinksSvg/Icon ionic-md-apps.svg" title="Providus InfoHub" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="Internet Banking"><img class="information" src="./quickLinksSvg/Path - information-variant.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="LeadInsight"><img class="web" src="./quickLinksSvg/Path - web-box.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="RyPam (Banks)"><img class="cloud" src="./quickLinksSvg/Path - thought-bubble.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="New Mail"><img class="mail" src="./quickLinksSvg/Path - email-plus.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="WorkFlow Automation"><img class="pos" src="./quickLinksSvg/Icon awesome-network-wired.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="POS Requisition"><img class="cal" src="./quickLinksSvg/Icon metro-calculator2.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="ProvRecon"><img class="flow" src="./quickLinksSvg/Icon metro-flow-tree.svg" /></div>
+        <div class="icon-contain" id="active-icons" data-hover="Providus Freshdesk" ><img class="desk" src="./quickLinksSvg/worker-desk-svgrepo-com.svg" /></div> </div></div>
+    </div> <br>
+    <section style="display: flex; gap: 26px; margin-bottom: 26px;">
+      <div class="icon-container" id="active-icon"><img class="bank" src="./svg/bank-svgrepo-com.svg" /><h5>BANK EOD</h5></div>
+      <div class="icon-container" id="active-icon"><img class="control" src="./svg/control-svgrepo-com.svg" /><h5 >ACCESS CONTROL</h5></div>
+      <div class="icon-container" id="active-icon"><img class="services" src="./svg/Group 179.svg" /><h5 >BANKING SERVICES</h5></div>
+      <div class="icon-container" id="active-icon"><img class="solution" src="./svg/solution-svgrepo-com.svg" /><h5>AML SOLUTIONS</h5></div>
+      <div class="icon-container" id="active-icon"><img class="www" src="./svg/laptop-electronics-svgrepo-com.svg" /><h5>IT OPERATIONS</h5></div>
+      <div class="icon-container" id="active-icon"><img class="cheq" src="./svg/check-svgrepo-com.svg" /><h5 >CHEQUE CONFIRMATION</h5></div>
+    </section>
+    <section style="display: flex; gap: 26px; margin-bottom: 40px;">
+      <div class="icon-container" id="active-icon"><img class="traf" src="./svg/XMLID_449_.svg" /><h5>TRAF</h5></div>
+      <div class="icon-container" id="active-icon"><img class="bill" src="./svg/bill-svgrepo-com.svg" /><h5>PROVIBILL</h5></div>
+      <div class="icon-container" id="active-icon"><img class="report2" src="./svg/report-svgrepo-com-2.svg" /><h5 >FINANCIAL REPORT</h5></div>
+      <div class="icon-container" id="active-icon"><img class="report" src="./svg/report-svgrepo-com.svg" /><h5 >GENERAL REPORTS</h5></div>
+      <div class="icon-container" id="active-icon"><img class="customer" src="./svg/customer-service-svgrepo-com.svg" /><h5>CUSTOMER 360</h5></div>
+      <div class="icon-container" id="active-icon"><img class="cheque" src="./svg/check-svgrepo-com-2.svg" /><h5 >CHEQUE ACTIVITY</h5></div>
+    </section>
+    <div class="container">    
+    <div><section class="section dashboard">
+          <div class="row">
+            <div class="col-4" style="width: fit-content;">
+              <div class="overflow-auto">
+                <div class="card-body pb-0">
+                  <table class="table table-borderless">
+                    <thead>
+                      <tr>
+                        <th >Form M-Rate<span class="gold">(aug 20, 2021)</span></th>
+                        <th ></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th scope="row">USD</th>
+                        <td>410.13</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">GBP</th>
+                        <td>560.98</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">EUR</th>
+                        <td>479.77</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+    
+              </div>
+            </div>
+    
+            <div class="col-6">
+              <div class=" overflow-auto">
+                <div class=" pb-0">
+                  <table class="table table-borderless">
+                    <thead>
+                      <tr>
+                        <th >Caption</th>
+                        <th>TDT Average</th>
+                        <th>Actual Balance</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th scope="row">Current Deposit</th>
+                        <td>0</td>
+                        <td>0</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Fixed Deposit</th>
+                        <td>0</td>
+                        <td>0</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Savings Deposit</th>
+                        <td>0</td>
+                        <td>0</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+    
+            <div class="col-2">
+              <div class=" overflow-auto">
+                <div class="card-body pb-0">
+                  <table class="table table-borderless">
+                    <thead>
+                      <tr>
+                        <th >My Cabal</th>
+                        <th></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>0</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+    
+                <!-- Birth day -->
+                
+                  <div class="NoPadding">
+                  <div class="overflow-auto">
+                    <div style="padding:0px 0px 20px 0px">
+                      <table class="table table-borderless">
+                        <thead>
+                          <tr>
+                            <th scope="col">June Birthdays</th>
+                            <th scope="col"></th>
+                            <th></th>
+                            <th></th>
+                          </tr>
+                          <tr class="bg-gray">
+                            <th></th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Day</th>
+                            <th></th>
+                          </tr>
+                        </thead>
+                        <tbody class="bg-white">
+                          <tr>
+                            <th scope="row"><a href="#"><img class="person" src="components/user.svg" alt=""></a></th>
+                            <td><a href="#" class="text-primary fw-bold">Nnamdi</a></td>
+                            <td>June 1</td>
+                            <td><a href="#"><div class="gift-contain" id="active-icon"><img class="gift" src="./sideBarSvg/gift.svg" />
+                            </div></a></td>
+                          </tr>
+                          <tr>
+                            <th scope="row"><a href="#"><img class="person" src="components/user.svg" alt=""></a></th>
+                            <td><a href="#" class="text-primary fw-bold">Azeez</a></td>
+                            <td>June 1</td>
+                            <td><a href="#"><div class="gift-contain" id="active-icon"><img class="gift" src="./sideBarSvg/gift.svg" />
+                            </div></a></td>
+                          </tr>
+                          <tr>
+                            <th scope="row"><a href="#"><img class="person" src="components/user.svg" alt=""></a></th>
+                            <td><a href="#" class="text-primary fw-bold">Ayodeji</a></td>
+                            <td>June 1</td>
+                            <td><a href="#"><div class="gift-contain" id="active-icon"><img class="gift" src="./sideBarSvg/gift.svg" />
+                            </div></a></td>
+                          </tr>
+                          <tr>
+                            <th scope="row"><a href="#"><img class="person" src="components/user.svg" alt=""></a></th>
+                            <td><a href="#" class="text-primary fw-bold">Chidiebere</a></td>
+                            <td>June 1</td>
+                            <td><a href="#"><div class="gift-contain" id="active-icon"><img class="gift" src="./sideBarSvg/gift.svg" />
+                            </div></a></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div><!-- Birth day -->
+              </div>
+              </div>
+            </div><!-- End Left side columns -->
+            <!-- Right side columns -->
+            <div class="col-lg-4">
+          </div>
+        </section>
+      </div>
+    </section>
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+    <div class="copyright">
+      &copy; Copyright <strong><span>Providus Bank</span></strong>. All Rights Reserved
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/chart.js/chart.min.js"></script>
+  <script src="assets/vendor/echarts/echarts.min.js"></script>
+  <script src="assets/vendor/quill/quill.min.js"></script>
+  <script src="assets/vendor/simple-datatables/simple-datatables.js"></script>
+  <script src="assets/vendor/tinymce/tinymce.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
