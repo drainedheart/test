@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 
 * {
-  outline: 2px solid red !important; 
+  /* outline: 2px solid red !important;  */
   box-sizing: border-box;
 }
 @media screen and (width: 1024px) {
@@ -1140,7 +1140,7 @@ h6 {
 .icon-container h5 {
   font-size: 10px;
   font-weight: 900;
-  color: #bbc5d5;
+  color: #354052;
 }
 .icon-container .bank {
   position: relative;
@@ -1522,12 +1522,13 @@ tbody {
 */
 
 .col-4 {
+  width: 19vw;
   padding: 0px 0px 10px 0px;
 }
 
 .col-6 {
-  width: 41vw;
-  padding: 20px 20px 10px 20px;
+  width: 32vw;
+  padding: 0px 20px 10px 20px;
 }
 
 .col-2 {
