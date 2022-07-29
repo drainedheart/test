@@ -243,7 +243,9 @@ h6 {
   color: #798eb3;
   padding: 15px;
 }
-
+.section{
+  width: 90%;
+}
 .card-title {
   padding: 20px 0 15px 0;
   font-size: 18px;
